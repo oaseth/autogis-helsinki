@@ -12,4 +12,6 @@ This repository contains my solution to some of the exercises for the Automating
 * Map projections
 
 ## Exercise 3
-* 
+* Geocoding with Geopandas
+* Point-in-polygon queries
+* Spatial join
